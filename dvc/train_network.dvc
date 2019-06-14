@@ -2,23 +2,32 @@ cmd: python code/train.py -lr 0.1 --activation-function tanh
 wdir: ..
 deps:
 - path: data/camelyonpatch_level_2_split_train_x.h5
+  md5: 01844da899645b4d6f84946d417ba453
 - path: data/camelyonpatch_level_2_split_train_y.h5
+  md5: 0781386bf6c2fb62d58ff18891466aca
 - path: data/camelyonpatch_level_2_split_valid_x.h5
+  md5: 81cf9680f1724c40673f10dc88e909b1
 - path: data/camelyonpatch_level_2_split_valid_y.h5
+  md5: 94d8aacc249253159ce2a2e78a86e658
 outs:
 - path: tf_models/tf_model.h5
   cache: true
   metric: false
   persist: false
+  md5: dcf2aed5dda9a2ae08a6286b43b0e362
 - path: tensorboards/tb
   cache: true
   metric: false
   persist: false
+  md5: 7ba15bd73190159c9a1334c2020c4f0b.dir
 - path: outputs/all-history.json
   cache: true
   metric: false
   persist: false
+  md5: 34c89e295f85d19bbae2840bf14e2618
 - path: outputs/history-summary.json
   cache: true
   metric: true
   persist: false
+  md5: 884f7769c9f81336932e79026e299d72
+md5: f1ea58bcfa38958e47312fa9c84103c4
