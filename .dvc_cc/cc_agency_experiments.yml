@@ -26,3 +26,7 @@ cc_0008_lr_0.02:
   files:
   - .dvc_cc/cc_0008_lr_0.02/dvc___train_network.dvc.yml
   id: 5d02f1c17a9dad233235ad35
+cc_0009_try_activation_tanh:
+  files:
+  - .dvc_cc/cc_0009_try_activation_tanh/dvc___train_network.dvc.yml
+  id: 5d034cfa7a9dad233235ad37
