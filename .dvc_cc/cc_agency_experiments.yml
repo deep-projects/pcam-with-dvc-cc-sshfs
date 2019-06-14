@@ -6,3 +6,7 @@ cc_0003_test_run_to_check_sshfs#:
   files:
   - .dvc_cc/cc_0003_test_run_to_check_sshfs#/dvc___train_network.dvc.yml
   id: null
+cc_0004_test_run_to_check_sshfs:
+  files:
+  - .dvc_cc/cc_0004_test_run_to_check_sshfs/dvc___train_network.dvc.yml
+  id: 5d02eec07a9dad233235ad31
