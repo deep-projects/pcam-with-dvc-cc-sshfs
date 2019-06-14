@@ -2,3 +2,7 @@ cc_0001_test_pipeline_on_cc_server:
   files:
   - .dvc_cc/cc_0001_test_pipeline_on_cc_server/dvc___train_network.dvc.yml
   id: 5d02e9407a9dad233235ad2f
+cc_0003_test_run_to_check_sshfs#:
+  files:
+  - .dvc_cc/cc_0003_test_run_to_check_sshfs#/dvc___train_network.dvc.yml
+  id: null
