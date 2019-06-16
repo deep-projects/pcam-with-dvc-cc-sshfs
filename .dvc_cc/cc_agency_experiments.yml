@@ -77,3 +77,14 @@ cc_0020_speed_test_1_worker:
   - .dvc_cc/cc_0020_speed_test_1_worker/dvc___train_network.dvc.yml
   - .dvc_cc/cc_0020_speed_test_1_worker/dvc___train_network.dvc.yml
   id: 5d05e47a41d60708214ccb66
+cc_0021_speed_test_2_workers:
+  files:
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  - .dvc_cc/cc_0021_speed_test_2_workers/dvc___train_network.dvc.yml
+  id: 5d05e4ae41d60708214ccb6f
